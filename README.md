@@ -48,7 +48,7 @@ Log.d("Profiler", "Session stats: ${stats.toPrettyJson()}")
 ```
 
 
-### Export CSV or JSON:
+### Export JSON:
 
 📊 Example Output
 ```
